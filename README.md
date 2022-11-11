@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarEst98
-- 👀 I’m interested in Computational Economics, Quantitative Macroeconomics, and Applied Econometrics
-- 🌱 I’m currently learning Python applied to Computational Economics
+- 👀 I’m interested in Quantitative Macroeconomics, and Applied Econometrics
+- 🌱 I’m currently learning Julia applied to Computational Economics
 - 💞️ I’m looking to collaborate on Economists, Economic Researchers, Macroeconomists, Econometricians, Data Scientists
 - 📫 How to reach me: as @MarEst98 at GitHub
 
