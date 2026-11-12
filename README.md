@@ -1,6 +1,6 @@
 Financial Economist and Research Consultant currently working at the Inter-American Development Bank. Previously a researcher at the AQR Asset Management Institute at London Business School. Research Master's in Financial Economics from University College London. Before that, I worked in Latin American VC & PE.
 
-RESEARCH PROFIILE
+RESEARCH PROFIILE \\
 Primary fields: Financial economics, macroeconomics. Secondary: Econometrics (causal and structural inference).
 Interests: Information frictions: disclosure and asset prices, collateral and credit cycles, private capital markets.
 Methods: 
